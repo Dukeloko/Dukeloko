@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Hi I'm Oscar ✌️
+No soy un robot, intento ser un desarrollador **front-end** apasionado por el diseño y la programación.
 
-<!--
-**Dukeloko/Dukeloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Algunas tecnologías que se utilizan son:
 
-Here are some ideas to get you started:
+- **Lenguajes de programación:** PHP, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desarrollo web:** HTML, CSS, JavaScript, Bootstrap 5, SASS, Grind
+
+- **Control de versiones:** Git y GitHub
+
+- **Bases de datos:** Modelado, diseño y consultas en MySQL
+
+- **Redes:** Conocimiento básico en configuración y funcionamiento deredes.
+
+---
+
+## Estas son algunas de mis estadísticas. 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dukeloko&theme=tokyonight-duo&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dukeloko&show_icons=true&theme=radical)
