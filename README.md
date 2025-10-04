@@ -4,7 +4,9 @@
   
 </div>
 
-<h1 align="center">Oscar MG </h1>
+<h1 align="center">
+  <span style="color:#C71585">★彡[Oscar MG]彡★   </span> 
+</h1>
 
 ## Hi friend 👋
 
@@ -14,7 +16,7 @@
   
 </div>
 
-## 👋 Hola, soy Dukelko
+## 👋 Hola, soy Dukeloko
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dukeloko&color=orange)
 
@@ -67,9 +69,9 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 
 ## 📫 Cómo contactarme
 - ✉️ Email: [montenegrogoscar@gmail.com](mailto:montenegrogoscar@gmail.com)
-- 🐙 GitHub: [github.com/Dukelko](https://github.com/Dukelko)
-- 🎥 YouTube: [Shotmy377_YT](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
-- 🎮 Twitch: [Shotmy377_Twitch](https://www.twitch.tv/shotmi377)
+- 🐙 GitHub: [github.com/Dukelko](https://github.com/Dukeloko)
+- 🎥 YouTube: [https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
+- 🎮 Twitch: [https://www.twitch.tv/shotmi377](https://www.twitch.tv/shotmi377)
 
 ## 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Dukeloko&show_icons=true&theme=cobalt)
