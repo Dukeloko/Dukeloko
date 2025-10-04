@@ -1,6 +1,8 @@
 <div align="center">
 
-![Header](https://i.pinimg.com/originals/b6/01/63/b601633dd9f5614cadae0fc3c2b7b20e.gif)
+![Header](https://i.pinimg.com/originals/df/68/0d/df680de08192fb5db285c443390df332.gif)
+
+![Header](https://64.media.tumblr.com/6edd8b61fc5842d46143b557c117d472/7eea263559329a1f-87/s540x810/63ed6034aa34bebaa168ab1525138f12e724f691.gif)
    
 </div>
 
@@ -43,11 +45,17 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 ## ✨ Algo divertido
 <div align="center">
 
-![Header](https://i.pinimg.com/originals/0d/c9/87/0dc987cab7bc9c384caaf0d4a18512fd.gif)
+![Header](https://img1.picmix.com/output/pic/normal/9/3/7/6/11906739_1afa8.gif)
   
 </div>
 
 ## También Hacemos directos ✨
+
+<div align="center">
+
+![Header](https://i.pinimg.com/originals/0d/c9/87/0dc987cab7bc9c384caaf0d4a18512fd.gif)
+  
+</div>
 
 ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 
