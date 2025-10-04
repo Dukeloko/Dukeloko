@@ -1,9 +1,7 @@
 <div align="center">
 
 ![Header](https://i.pinimg.com/originals/df/68/0d/df680de08192fb5db285c443390df332.gif)
-
-![Header](https://64.media.tumblr.com/6edd8b61fc5842d46143b557c117d472/7eea263559329a1f-87/s540x810/63ed6034aa34bebaa168ab1525138f12e724f691.gif)
-   
+  
 </div>
 
 <h1 align="center">Oscar MG </h1>
@@ -12,7 +10,7 @@
 
 <div align="center">
   
-  ![Hello GIF](https://media.tenor.com/zpiFeuK1dEYAAAAM/space-ranger-juno.gif)
+  ![Hello GIF](https://gifdb.com/images/high/dva-sit-in-costume-while-play-bubble-gum-1gdcevxloqs59u7y.gif)
   
 </div>
 
