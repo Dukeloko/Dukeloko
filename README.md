@@ -1,4 +1,8 @@
-![Header](https://i.namu.wiki/i/VLJbquUDnNSfU90SA4QBAkME0pea3wEJx77sbqByHVvNPfrWuUC_SoXNkh7aU24xud1Dr2WGQzqx9aKTlMEIBQ.gif)
+<div align="center">
+
+![Header](https://i.pinimg.com/originals/b6/01/63/b601633dd9f5614cadae0fc3c2b7b20e.gif)
+   
+</div>
 
 <h1 align="center">Oscar MG </h1>
 
@@ -10,7 +14,7 @@
   
 </div>
 
-# 👋 Hola, soy Dukelko
+## 👋 Hola, soy Dukelko
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dukeloko&color=orange)
 
@@ -22,25 +26,38 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ✨ Algo divertido
-![GIF animado](https://64.media.tumblr.com/83e1274f12eaa696823e8ac49ef3f98a/01ffb61ecd04d3d4-3e/s540x810/261f337dcf9b5065a520929516e318f1ce38a54e.gif)
+<div align="center">
 
-### Hacemos directos
+![Header](https://i.pinimg.com/originals/0d/c9/87/0dc987cab7bc9c384caaf0d4a18512fd.gif)
+  
+</div>
+
+## También Hacemos directos ✨
 
 ![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 
 ![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)
 
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)
+
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)
 
 ## 📫 Cómo contactarme
 - ✉️ Email: [montenegrogoscar@gmail.com](mailto:montenegrogoscar@gmail.com)
@@ -48,16 +65,18 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 - 🎥 YouTube: [Shotmy377_YT](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
 - 🎮 Twitch: [Shotmy377_Twitch](https://www.twitch.tv/shotmi377)
 
-
 ## 📈 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Dukeloko&show_icons=true&theme=cobalt)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dukeloko&layout=compact&theme=dracula)
 
-
 ## 🎉 Un poco sobre mí
 
+<div align="center">
+  
 ![GIF animado](https://64.media.tumblr.com/8841242a4ec6c09fb196db8f1beed65a/tumblr_pdw6ibS3TG1w00t0oo1_540.gif)
+  
+</div>
 
 ```javascript
 const SobreMua = {
@@ -82,11 +101,20 @@ console.log(SobreMua);
 ```
 
 ## 🎥 En Acción
+
+<div align="center">
+  
 ![Coding](https://64.media.tumblr.com/6eabdda5e47253326f58c48f56ce6146/e3361202ab3384b7-9e/s540x810/ce62f1ddecd7b2ae338a0a834fe5514cd3ecba3f.gif)
-
+  
+</div>
 
 ---
 
 ---
 
+<div align="center">
+  
 ![Footer](https://cdn.dribbble.com/userupload/22109882/file/original-43e9db136063d6a7da03169325fc479a.gif)
+  
+</div>
+
