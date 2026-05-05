@@ -2,6 +2,35 @@
   <span style="color:#C71585">★彡[Oscar MG]彡★   </span> 
 </h1>
 
+
+<!--
+<div>
+  <img src="https://github.com/Dukeloko/Dukeloko/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/Dukeloko/Dukeloko/blob/main/metrics2.svg" width="48%" />
+</div>
+<img src="https://github.com/Dukeloko/sponsors/blob/main/dist/sponsors.svg" width="95%" />
+
+-->
+
+<h2>
+  Leetcode Statistics
+  <img alt="LeetCode" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=leetcode&logoColor=%238e759c">
+</h2>
+
+![Dukeloko GitHub stats](https://github-readme-stats.vercel.app/api?username=Dukeloko&border_radius=4&bg_color=65,2e3440,8e759c&title_color=fff&text_color=fff&border_color=434c5d)
+
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Dukeloko" width="500">
+
+	   .-'~~~-.
+	 .'o  oOOOo`.
+	:~~~-.oOo   o`.
+	`. \ ~-.  oOOo.
+	  `.; / ~.  OO:
+	 .'  ;-- `.o.'
+	,'  ; ~~--'~
+	;  ;
+_ \\;_\\//___\|/_ __  _    _
+
 <!-- La serpeiente no siver para mi perfila , se debe de areglar -->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
