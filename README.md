@@ -1,12 +1,13 @@
-<div align="center">
-
-![Header](https://i.pinimg.com/originals/df/68/0d/df680de08192fb5db285c443390df332.gif)
-  
-</div>
-
 <h1 align="center">
   <span style="color:#C71585">★彡[Oscar MG]彡★   </span> 
 </h1>
+
+<!-- La serpeiente no siver para mi perfila , se debe de areglar -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake.svg">
+<img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Hi friend 👋
 
