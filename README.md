@@ -1,7 +1,6 @@
 <h1 align="center">
-  <span style="color:#C71585">★彡[Oscar MG]彡★   </span> 
+	# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; ★彡 Hi , I'm [Oscar MG]彡★   
 </h1>
-
 
 <!--
 <div>
@@ -12,25 +11,6 @@
 
 -->
 
-<h2>
-  Leetcode Statistics
-  <img alt="LeetCode" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=leetcode&logoColor=%238e759c">
-</h2>
-
-![Dukeloko GitHub stats](https://github-readme-stats.vercel.app/api?username=Dukeloko&border_radius=4&bg_color=65,2e3440,8e759c&title_color=fff&text_color=fff&border_color=434c5d)
-
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Dukeloko" width="500">
-
-	   .-'~~~-.
-	 .'o  oOOOo`.
-	:~~~-.oOo   o`.
-	`. \ ~-.  oOOo.
-	  `.; / ~.  OO:
-	 .'  ;-- `.o.'
-	,'  ; ~~--'~
-	;  ;
-_ \\;_\\//___\|/_ __  _    _
-
 <!-- La serpeiente no siver para mi perfila , se debe de areglar -->
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
@@ -39,6 +19,8 @@ _ \\;_\\//___\|/_ __  _    _
 </picture>
 
 ## Hi friend 👋
+
+<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" />
 
 <div align="center">
   
@@ -107,9 +89,12 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 - 🎮 Twitch: [https://www.twitch.tv/shotmi377](https://www.twitch.tv/shotmi377)
 
 ## 📈 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=Dukeloko&show_icons=true&theme=cobalt)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dukeloko&layout=compact&theme=dracula)
+<div align="center">
+  
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Dukeloko" width="500">
+  
+</div>
 
 ## 🎉 Un poco sobre mí
 
@@ -151,7 +136,24 @@ console.log(SobreMua);
 
 ---
 
+	   .-'~~~-.
+	 .'o  oOOOo`.
+	:~~~-.oOo   o`.
+	`. \ ~-.  oOOo.
+	  `.; / ~.  OO:
+	 .'  ;-- `.o.'
+	,'  ; ~~--'~
+	;  ;
+_ \\;_\\//___\|/_ __  _    _
+
 ---
+
+<!-- nave espacial disparando-->
+<div align="center">
+  
+![Space Defense](contribution_shooter.svg)
+
+</div>
 
 <div align="center">
   
