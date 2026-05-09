@@ -1,0 +1,29 @@
+name: Generar Nave Espacial
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se actualiza automáticamente cada medianoche
+  workflow_dispatch: # Te permite correrlo a mano para probarlo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Instalar Requests
+        run: pip install requests
+      - name: Ejecutar Script de la Nave
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python space_shooter.py
+      - name: Guardar el SVG en GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contribution_shooter.svg
+          git commit -m "Actualizando disparos de contribuciones 🚀" || exit 0
+          git push
