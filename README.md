@@ -10,12 +10,12 @@
 <img src="https://github.com/Dukeloko/sponsors/blob/main/dist/sponsors.svg" width="95%" />
 -->
 
-<!-- La serpeiente no siver para mi perfila , se debe de areglar -->
+<!-- La serpiente de contribuciones de Dukeloko -->
 <div align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake.svg">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dukeloko/Dukeloko/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dukeloko/Dukeloko/output/github-contribution-grid-snake.svg">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/Dukeloko/Dukeloko/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -59,10 +59,11 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## ✨ Algo divertido
+<!-- nave espacial disparando-->
 <div align="center">
-
-![Header](https://img1.picmix.com/output/pic/normal/9/3/7/6/11906739_1afa8.gif)
   
+![Space Defense](contribution_shooter.svg)
+
 </div>
 
 ## También Hacemos directos ✨
@@ -89,12 +90,16 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 - 🎥 YouTube: [https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
 - 🎮 Twitch: [https://www.twitch.tv/shotmi377](https://www.twitch.tv/shotmi377)
 
-## 📈 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub 
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dukeloko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff&include_all_commits=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukeloko&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&layout=compact" width="48%" />
+</div> -->
 
 <div align="center">
-  
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=Dukeloko" width="500">
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dukeloko&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff" width="100%" />
 </div>
 
 ## 🎉 Un poco sobre mí
@@ -148,15 +153,6 @@ console.log(SobreMua);
 _ \\;_\\//___\|/_ __  _    _
 
 ---
-
----
-
-<!-- nave espacial disparando-->
-<div align="center">
-  
-![Space Defense](contribution_shooter.svg)
-
-</div>
 
 <div align="center">
   
