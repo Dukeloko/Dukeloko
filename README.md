@@ -1,5 +1,5 @@
 <h1 align="center">
-	# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; ★彡 Hi , I'm [Oscar MG]彡★   
+    # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp; ★彡 Hi , I'm Oscar MG 彡★   
 </h1>
 
 <!--
@@ -8,15 +8,16 @@
   <img src="https://github.com/Dukeloko/Dukeloko/blob/main/metrics2.svg" width="48%" />
 </div>
 <img src="https://github.com/Dukeloko/sponsors/blob/main/dist/sponsors.svg" width="95%" />
-
 -->
 
 <!-- La serpeiente no siver para mi perfila , se debe de areglar -->
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake.svg">
-<img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmasniuk/lmasniuk/output/github-contribution-grid-snake.svg">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/Lmasniuk/Lmasniuk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ## Hi friend 👋
 
@@ -72,19 +73,19 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
   
 </div>
 
-![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
+<div align="center">
 
-![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
+[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shotmi377)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_aqui)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario_aqui)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu_usuario_aqui)
 
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)
-
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)
-
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)
+</div>
 
 ## 📫 Cómo contactarme
 - ✉️ Email: [montenegrogoscar@gmail.com](mailto:montenegrogoscar@gmail.com)
-- 🐙 GitHub: [github.com/Dukelko](https://github.com/Dukeloko)
+- 🐙 GitHub: [github.com/Dukeloko](https://github.com/Dukeloko)
 - 🎥 YouTube: [https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
 - 🎮 Twitch: [https://www.twitch.tv/shotmi377](https://www.twitch.tv/shotmi377)
 
@@ -117,8 +118,8 @@ const SobreMua = {
   },
   Contacto: {
     Email: "montenegrogoscar@gmail.com",
-    Twitch: "https://www.twitch.tv/shotmi377",
-    YouTube: "https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q"
+    Twitch: "[https://www.twitch.tv/shotmi377](https://www.twitch.tv/shotmi377)",
+    YouTube: "[https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)"
   }
 };
 
@@ -148,6 +149,8 @@ _ \\;_\\//___\|/_ __  _    _
 
 ---
 
+---
+
 <!-- nave espacial disparando-->
 <div align="center">
   
@@ -160,4 +163,3 @@ _ \\;_\\//___\|/_ __  _    _
 ![Footer](https://cdn.dribbble.com/userupload/22109882/file/original-43e9db136063d6a7da03169325fc479a.gif)
   
 </div>
-
