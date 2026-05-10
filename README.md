@@ -78,9 +78,9 @@ Soy apasionado por la programación, la tecnología y el desarrollo de sistemas.
 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0CLjoGW07-_JFfF14OdB5Q)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/shotmi377)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tu_usuario_aqui)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_usuario_aqui)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu_usuario_aqui)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ShotMinotaur377)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i377)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/i377)
 
 </div>
 
